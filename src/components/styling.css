@@ -4,6 +4,14 @@ p {
   text-align: center;
 }
 
+/* header css I added */
+header{
+  background-color: #5c94ce;
+  color:white;
+  font-size: 60px;
+  font-weight: bold;
+  padding: 60px;
+}
 button {
   background-color: #5c94ce;
   border-radius: 15px;
